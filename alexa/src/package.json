@@ -1,0 +1,7 @@
+{
+  "name": "particle-relay-switch-alexa",
+  "version": "0.1.0",
+  "dependencies": {
+    "particle-api-js": "6.0.4"
+  }
+}
